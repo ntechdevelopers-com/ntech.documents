@@ -1,10 +1,10 @@
 {
-  "name": "react-typescript-cheatsheet",
+  "name": "ntech-developers-notebooks",
   "version": "1.0.0",
   "description": "this package.json is just for maintenance work",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/typescript-cheatsheets/react.git"
+    "url": "git+https://github.com/ntechdevelopers-com/documents.git"
   },
   "keywords": [
     "react",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/typescript-cheatsheets/react/issues"
+    "url": "https://github.com/ntechdevelopers-com/documents/issues"
   },
-  "homepage": "https://github.com/typescript-cheatsheets/react#readme",
+  "homepage": "https://github.com/ntechdevelopers-com/documents#readme",
   "scripts": {
     "format-readme": "prettier --write \"README.md\"",
     "gen-readme": "node genReadme.js",

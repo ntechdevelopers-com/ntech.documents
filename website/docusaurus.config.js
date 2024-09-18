@@ -17,8 +17,8 @@ module.exports = {
     "Notebooks for experienced developers getting started",
   url: "https://ntechdevelopers.netlify.app/", // Your website URL
   baseUrl: "/",
-  projectName: "react-typescript-cheatsheet",
-  organizationName: "typescript-cheatsheets",
+  projectName: "ntech-developers-documents",
+  organizationName: "ntech-developers",
 
   presets: [
     [
@@ -33,7 +33,7 @@ module.exports = {
           // Sidebars file relative to website dir.
           sidebarPath: require.resolve("./sidebars.json"),
           editUrl:
-            "https://github.com/typescript-cheatsheets/react/tree/main/docs",
+            "https://github.com/ntechdevelopers-com/documents/tree/main/docs",
         },
         // ...
       },
@@ -133,7 +133,7 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/ntechdevelopers-com/Notebooks",
+              href: "https://github.com/ntechdevelopers-com/documents",
             }
           ],
         },
@@ -142,7 +142,7 @@ module.exports = {
 
     algolia: {
       apiKey: "9a22585d1841d2fa758da919cd08a764",
-      indexName: "ntech-developers-Notebooks",
+      indexName: "ntech-developers-notebooks",
       appId: "J65EL4UPXZ",
       algoliaOptions: {
         //... },
@@ -156,6 +156,6 @@ module.exports = {
     // TODO useless user showcase page ?
     users,
     addUserUrl:
-      "https://github.com/ntechdevelopers-com/Notebooks/blob/main/website/docusaurus.config.js",
+      "https://github.com/ntechdevelopers-com/documents/blob/main/website/docusaurus.config.js",
   },
 };
