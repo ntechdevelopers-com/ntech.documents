@@ -111,9 +111,14 @@ module.exports = {
               href: "https://www.linkedin.com/groups/13090082",
             },
             {
-              label: "User Showcase",
-              to: "users",
-            },
+              label: "GitHub",
+              href: "https://github.com/ntechdevelopers-com/documents",
+            }
+          ],
+        },
+        {
+          title: "More",
+          items: [
             {
               label: "Help",
               to: "help",
@@ -126,15 +131,6 @@ module.exports = {
               label: "Contributing",
               to: "contributing",
             },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "GitHub",
-              href: "https://github.com/ntechdevelopers-com/documents",
-            }
           ],
         },
       ],
