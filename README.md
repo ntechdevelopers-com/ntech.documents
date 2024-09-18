@@ -1,6 +1,6 @@
-# Ntech Developers Documents
+# Ntech Developers Notebooks
 
-Documents for experienced developers getting started
+Notebooks for experienced developers getting started
 
 ---
 

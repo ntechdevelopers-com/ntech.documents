@@ -1,7 +1,7 @@
 # Our Code of Conduct
 
 This code of conduct outlines our expectations for participants within
-the [ntechdevelopers-com/documents](https://github.com/ntechdevelopers-com/documents) repository, as well as steps to
+the [ntechdevelopers-com/Notebooks](https://github.com/ntechdevelopers-com/Notebooks) repository, as well as steps to
 reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect
 our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 

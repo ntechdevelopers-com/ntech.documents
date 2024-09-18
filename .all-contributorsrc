@@ -18,8 +18,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Ntech Developers Documents",
-  "projectOwner": "documents",
+  "projectName": "Ntech Developers Notebooks",
+  "projectOwner": "Notebooks",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,

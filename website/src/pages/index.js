@@ -9,9 +9,9 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="Ntech Developers Documents"
+      title="Ntech Developers Notebooks"
       permalink="/"
-      description="Ntech Developers Documents"
+      description="Ntech Developers Notebooks"
     >
       <div className="hero text--center">
         <div className="container ">

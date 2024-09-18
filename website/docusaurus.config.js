@@ -12,9 +12,9 @@ const setupDoc = "docs/basic/setup";
 
 module.exports = {
   favicon: "img/icon.png",
-  title: "Ntech Developers Documents", // Title for your website.
+  title: "Ntech Developers Notebooks", // Title for your website.
   tagline:
-    "Documents for experienced developers getting started",
+    "Notebooks for experienced developers getting started",
   url: "https://ntechdevelopers.netlify.app/", // Your website URL
   baseUrl: "/",
   projectName: "react-typescript-cheatsheet",
@@ -46,7 +46,7 @@ module.exports = {
     },
 
     image:
-      "https://user-images.githubusercontent.com/6764957/53868378-2b51fc80-3fb3-11e9-9cee-0277efe8a927.png",
+      "https://avatars.githubusercontent.com/u/15828583?v=4",
 
     // Equivalent to `docsSideNavCollapsible`.
     // sidebarCollapsible: false,
@@ -56,7 +56,7 @@ module.exports = {
     },
 
     navbar: {
-      title: "Ntech Developers Documents",
+      title: "Ntech Developers Notebooks",
       logo: {
         alt: "Logo",
         src: "img/icon.png",
@@ -111,8 +111,12 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/typescript",
+              label: "Fanpage",
+              href: "https://www.facebook.com/ntechdevelopers",
+            },
+            {
+              label: "Linkedin",
+              href: "https://www.linkedin.com/groups/13090082",
             },
             {
               label: "User Showcase",
@@ -137,12 +141,7 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/ntechdevelopers-com/documents",
-            },
-            {
-              html: `<a class="footer__link-item" href="https://github.com/ntechdevelopers-com/documents">
-                <img src="https://camo.githubusercontent.com/f00e074779455222f68fde1096fbbd91bae555c2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f747970657363726970742d63686561747368656574732f72656163742d747970657363726970742d636865617473686565742e7376673f7374796c653d736f6369616c266c6162656c3d53746172266d61784167653d32353932303030" alt="GitHub stars" data-canonical-src="https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet.svg?style=social&amp;label=Star&amp;maxAge=2592000" style="max-width:100%;">
-                </a>`,
+              href: "https://github.com/ntechdevelopers-com/Notebooks",
             }
           ],
         },
@@ -151,7 +150,7 @@ module.exports = {
 
     algolia: {
       apiKey: "9a22585d1841d2fa758da919cd08a764",
-      indexName: "ntech-developers-documents",
+      indexName: "ntech-developers-Notebooks",
       appId: "J65EL4UPXZ",
       algoliaOptions: {
         //... },
@@ -165,6 +164,6 @@ module.exports = {
     // TODO useless user showcase page ?
     users,
     addUserUrl:
-      "https://github.com/ntechdevelopers-com/documents/blob/main/website/docusaurus.config.js",
+      "https://github.com/ntechdevelopers-com/Notebooks/blob/main/website/docusaurus.config.js",
   },
 };
