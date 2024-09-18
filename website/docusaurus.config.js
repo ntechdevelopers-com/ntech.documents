@@ -94,17 +94,9 @@ module.exports = {
               to: setupDoc,
             },
             {
-              label: "High Order Component (HOC)",
-              to: "docs/hoc",
-            },
-            {
               label: "Advanced Guides",
               to: "docs/advanced",
-            },
-            {
-              label: "Migrating",
-              to: "docs/migration",
-            },
+            }
           ],
         },
         {

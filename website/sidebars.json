@@ -24,14 +24,8 @@
         ]
       }
     ],
-    "HOC": [
-      "hoc/index"
-    ],
     "Advanced": [
-      "advanced/index"
-    ],
-    "Migration": [
-      "migration/index"
+      "advanced"
     ]
   }
 }
