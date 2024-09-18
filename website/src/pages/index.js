@@ -9,9 +9,9 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="React TypeScript Cheatsheets"
+      title="Ntech Developers Documents"
       permalink="/"
-      description="React TypeScript Cheatsheets"
+      description="Ntech Developers Documents"
     >
       <div className="hero text--center">
         <div className="container ">
@@ -27,10 +27,10 @@ export default function Home() {
               Getting started
             </Link>
             <Link
-              to={"https://discord.gg/wTGS5z9"}
+              to={"http://blog.ntechdevelopers.com/"}
               className="button button--lg button--outline button--secondary"
             >
-              Join Official Discord
+              Go to Blog
             </Link>
           </div>
         </div>

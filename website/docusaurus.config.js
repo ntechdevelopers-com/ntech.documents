@@ -12,10 +12,10 @@ const setupDoc = "docs/basic/setup";
 
 module.exports = {
   favicon: "img/icon.png",
-  title: "React TypeScript Cheatsheets", // Title for your website.
+  title: "Ntech Developers Documents", // Title for your website.
   tagline:
-    "Cheatsheets for experienced React developers getting started with TypeScript",
-  url: "https://react-typescript-cheatsheet.netlify.app", // Your website URL
+    "Documents for experienced developers getting started",
+  url: "https://ntechdevelopers.netlify.app/", // Your website URL
   baseUrl: "/",
   projectName: "react-typescript-cheatsheet",
   organizationName: "typescript-cheatsheets",
@@ -56,7 +56,7 @@ module.exports = {
     },
 
     navbar: {
-      title: "React TypeScript Cheatsheet",
+      title: "Ntech Developers Documents",
       logo: {
         alt: "Logo",
         src: "img/icon.png",
@@ -72,11 +72,6 @@ module.exports = {
           label: "Help",
           position: "right",
         },
-        {
-          to: "https://discord.gg/wTGS5z9",
-          label: "Discord",
-          position: "right",
-        },
         // {to: 'blog', label: 'Blog', position: 'right'},
       ],
     },
@@ -84,12 +79,12 @@ module.exports = {
     footer: {
       style: "dark",
       logo: {
-        alt: "TypeScript Cheatsheets Logo",
+        alt: "Ntech Developers Logo",
         src: "img/icon.png",
         // maxWidth: 128,
         // style: { maxWidth: 128, maxHeight: 128 },
       },
-      copyright: `Copyright © ${new Date().getFullYear()} TypeScript Cheatsheets`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ntech Developers`,
       links: [
         {
           title: "Docs",
@@ -142,25 +137,13 @@ module.exports = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/typescript-cheatsheets/react",
+              href: "https://github.com/ntechdevelopers-com/documents",
             },
             {
-              html: `<a class="footer__link-item" href="https://github.com/typescript-cheatsheets/react">
+              html: `<a class="footer__link-item" href="https://github.com/ntechdevelopers-com/documents">
                 <img src="https://camo.githubusercontent.com/f00e074779455222f68fde1096fbbd91bae555c2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f747970657363726970742d63686561747368656574732f72656163742d747970657363726970742d636865617473686565742e7376673f7374796c653d736f6369616c266c6162656c3d53746172266d61784167653d32353932303030" alt="GitHub stars" data-canonical-src="https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet.svg?style=social&amp;label=Star&amp;maxAge=2592000" style="max-width:100%;">
                 </a>`,
-            },
-            {
-              // label: "Discord",
-              html: `<a class="footer__link-item" href="https://discord.gg/wTGS5z9">
-              <img src="https://img.shields.io/discord/508357248330760243.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" style="max-width:100%;">
-              </a>`,
-            },
-            {
-              // label: "Spread the word",
-              html: `<a class="footer__link-item" href="http://twitter.com/home?status=Awesome%20%40Reactjs%20%2B%20%40TypeScript%20cheatsheet%20by%20%40ferdaber%2C%20%40sebsilbermann%2C%20%40swyx%20%26%20others!%20https%3A%2F%2Fgithub.com%2Ftypescript-cheatsheets%2Freact">
-              <img src="https://img.shields.io/twitter/url?label=Help%20spread%20the%20word%21&style=social&url=https%3A%2F%2Fgithub.com%2Ftypescript-cheatsheets%2Freact" style="max-width:100%;">
-              </a>`,
-            },
+            }
           ],
         },
       ],
@@ -168,7 +151,7 @@ module.exports = {
 
     algolia: {
       apiKey: "9a22585d1841d2fa758da919cd08a764",
-      indexName: "react-typescript-cheatsheet",
+      indexName: "ntech-developers-documents",
       appId: "J65EL4UPXZ",
       algoliaOptions: {
         //... },
@@ -182,6 +165,6 @@ module.exports = {
     // TODO useless user showcase page ?
     users,
     addUserUrl:
-      "https://github.com/typescript-cheatsheets/react/blob/main/website/docusaurus.config.js",
+      "https://github.com/ntechdevelopers-com/documents/blob/main/website/docusaurus.config.js",
   },
 };
