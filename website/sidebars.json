@@ -6,19 +6,19 @@
         "type": "category",
         "label": "OOP",
         "items": [
-          "basic/oop/oop"
+          "basic/general/oop"
         ]
-      }
-    ],
-    "Advanced": [
-      "advanced/overview",
+      },
       {
         "type": "category",
         "label": "Microservice",
         "items": [
-          "advanced/microservice/microservice"
+          "basic/microservice/microservice"
         ]
       }
+    ],
+    "Advanced": [
+      "advanced/overview"
     ],
     "Testing": [
         "testing/overview",

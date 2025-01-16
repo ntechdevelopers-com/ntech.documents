@@ -169,7 +169,7 @@ async function main(argv) {
     from: currentReadme,
     to: pendingReadme,
     name: "oop",
-    path: "docs/basic/oop/oop.md",
+    path: "docs/basic/general/oop.md",
   });
   const prettierConfig = await prettier.resolveConfig(readmePath);
   pendingReadme = prettier.format(pendingReadme, {

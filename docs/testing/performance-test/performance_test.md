@@ -1,6 +1,6 @@
 ---
 id: performance-test
-title: Tổng hợp các bài viết về performance testing
+title: Performance Testing
 ---
 
 ## Tổng kết chiến dịch kiểm thử hiệu năng spiderum

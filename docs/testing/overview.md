@@ -1,6 +1,6 @@
 ---
 id: overview
-title: Tổng hợp các bài viết về testing
+title: Overview Testing
 ---
 
 Vậy là đã kết thúc loạt bài về testing, đây chỉ là những ghi chú cơ bản của bản thân về kiểm thử phần mềm. Mình là một dev chứ không phải là một QC hay Tester nên mình chỉ xin phép cưỡi ngựa xem hoa về loạt bài này. 
