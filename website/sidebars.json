@@ -1,14 +1,34 @@
 {
   "docs": {
     "Basic": [
-      "basic/setup",
+      "basic/basic",
       {
         "type": "category",
-        "label": "Getting Started",
+        "label": "OOP",
         "items": [
-          "basic/getting-started/basic_type_example"
+          "basic/oop/oop"
         ]
       }
-    ]
+    ],
+    "Advanced": [
+      "advanced/advanced",
+      {
+        "type": "category",
+        "label": "Microservice",
+        "items": [
+          "advanced/microservice/microservice"
+        ]
+      }
+    ],
+    "Testing": [
+        "testing/testing",
+        {
+          "type": "category",
+          "label": "Testing",
+          "items": [
+            "testing/performance-test/performance-test"
+          ]
+        }
+      ]
   }
 }
