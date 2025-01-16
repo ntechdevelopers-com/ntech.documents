@@ -1,7 +1,7 @@
 {
   "docs": {
     "Basic": [
-      "basic/basic",
+      "basic/overview",
       {
         "type": "category",
         "label": "OOP",
@@ -11,7 +11,7 @@
       }
     ],
     "Advanced": [
-      "advanced/advanced",
+      "advanced/overview",
       {
         "type": "category",
         "label": "Microservice",
@@ -21,7 +21,7 @@
       }
     ],
     "Testing": [
-        "testing/testing",
+        "testing/overview",
         {
           "type": "category",
           "label": "Testing",

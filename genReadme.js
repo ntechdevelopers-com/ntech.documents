@@ -160,7 +160,7 @@ async function main(argv) {
     from: currentReadme,
     to: pendingReadme,
     name: "basic",
-    path: "docs/basic/basic.md",
+    path: "docs/basic/overview.md",
     withToc: true,
     relativeHeadingLevel: 1,
     prefix: "Kiến thức cơ bản: ",

@@ -8,8 +8,8 @@ const users = [
   },
 ];
 
-const basicDoc = "docs/basic/basic.md";
-const advancedDoc = "docs/advanced/advanced.md";
+const basicDoc = "docs/basic/overview";
+const advancedDoc = "docs/advanced/overview";
 
 module.exports = {
   favicon: "img/icon.png",
