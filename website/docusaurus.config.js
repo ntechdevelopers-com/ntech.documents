@@ -8,7 +8,8 @@ const users = [
   },
 ];
 
-const setupDoc = "docs/basic/setup";
+const basicDoc = "docs/basic/basic";
+const advancedDoc = "docs/advanced/advanced";
 
 module.exports = {
   favicon: "img/icon.png",
@@ -63,7 +64,7 @@ module.exports = {
       },
       items: [
         {
-          to: setupDoc,
+          to: basicDoc,
           label: "Docs",
           position: "right",
         },
@@ -91,11 +92,7 @@ module.exports = {
           items: [
             {
               label: "Introduction",
-              to: setupDoc,
-            },
-            {
-              label: "Advanced Guides",
-              to: "docs/advanced",
+              to: basicDoc,
             }
           ],
         },
@@ -147,7 +144,7 @@ module.exports = {
   },
 
   customFields: {
-    firstDoc: setupDoc,
+    firstDoc: basicDoc,
 
     // TODO useless user showcase page ?
     users,

@@ -159,17 +159,17 @@ async function main(argv) {
   pendingReadme = await updateSectionWith({
     from: currentReadme,
     to: pendingReadme,
-    name: "setup",
-    path: "docs/basic/setup.md",
+    name: "basic",
+    path: "docs/basic/basic.md",
     withToc: true,
     relativeHeadingLevel: 1,
-    prefix: "Section 1: ",
+    prefix: "Kiến thức cơ bản: ",
   });
   pendingReadme = await updateSectionWith({
     from: currentReadme,
     to: pendingReadme,
-    name: "basic-type-examples",
-    path: "docs/basic/getting-started/basic-type-examples.md",
+    name: "oop",
+    path: "docs/basic/oop/oop.md",
   });
   const prettierConfig = await prettier.resolveConfig(readmePath);
   pendingReadme = prettier.format(pendingReadme, {
