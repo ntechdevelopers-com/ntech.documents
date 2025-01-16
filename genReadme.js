@@ -168,8 +168,8 @@ async function main(argv) {
   pendingReadme = await updateSectionWith({
     from: currentReadme,
     to: pendingReadme,
-    name: "oop",
-    path: "docs/basic/general/oop.md",
+    name: "tips",
+    path: "docs/basic/general/tips.md",
   });
   const prettierConfig = await prettier.resolveConfig(readmePath);
   pendingReadme = prettier.format(pendingReadme, {

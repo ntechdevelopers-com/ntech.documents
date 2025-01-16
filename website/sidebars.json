@@ -4,9 +4,9 @@
       "basic/overview",
       {
         "type": "category",
-        "label": "OOP",
+        "label": "Tips and Tricks",
         "items": [
-          "basic/general/oop"
+          "basic/general/tips"
         ]
       },
       {
