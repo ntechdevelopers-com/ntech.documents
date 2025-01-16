@@ -1,6 +1,6 @@
 ---
-id: basic_type_example
-title: Typing Component Props
+id: oop
+title: Bài viết về lập trình hướng đối tượng
 ---
 
-This is intended as a basic orientation and reference for React developers familiarizing with TypeScript.
+
