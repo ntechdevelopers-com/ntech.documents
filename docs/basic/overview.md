@@ -267,7 +267,6 @@ title: Overview Basic
 - Cloud providers
 - Containerization
 - Orchestration
-- Serverless
 - Message bus
 - Message Broker
 - Event Streaming
@@ -281,6 +280,7 @@ title: Overview Basic
 - Client Server Architecture
     + Client Server Architecture – Kiến trúc client-server [https://blog.ntechdevelopers.com/client-server-architecture-kien-truc-client-server](https://blog.ntechdevelopers.com/client-server-architecture-kien-truc-client-server)
 - Serverless Architecture
+    + Serverless Architecture – Kiến trúc không có máy chủ [https://blog.ntechdevelopers.com/serverless-architecture-kien-truc-khong-co-may-chu/](https://blog.ntechdevelopers.com/serverless-architecture-kien-truc-khong-co-may-chu/)
 
 ## [Optimize Performance]
 
@@ -294,6 +294,7 @@ title: Overview Basic
 - Payment
     + Tích hợp cổng thanh toán Vn-Pay với ứng dụng của bạn [https://blog.ntechdevelopers.com/tich-hop-cong-thanh-toan-vn-pay-voi-ung-dung-cua-ban/](https://blog.ntechdevelopers.com/tich-hop-cong-thanh-toan-vn-pay-voi-ung-dung-cua-ban/)
 - SAD
+    + SAD – Tài liệu kiến trúc phần mềm của các bậc “nhẫn giả” [https://blog.ntechdevelopers.com/sad-tai-lieu-kien-truc-phan-mem-cua-cac-bac-nhan-gia/](https://blog.ntechdevelopers.com/sad-tai-lieu-kien-truc-phan-mem-cua-cac-bac-nhan-gia/)
 - UML
     + UML – Bản vẽ thi công dành cho kỹ sư lập trình [https://blog.ntechdevelopers.com/uml-ban-ve-thi-cong-danh-cho-ky-su-lap-trinh/](https://blog.ntechdevelopers.com/uml-ban-ve-thi-cong-danh-cho-ky-su-lap-trinh/)
 - CLI
