@@ -160,19 +160,6 @@ title: Overview Basic
 - Log management system
     + Logging – Mắt thần của bạn trên hệ thống thực [https://blog.ntechdevelopers.com/logging-mat-than-cua-ban-tren-he-thong-thuc/](https://blog.ntechdevelopers.com/logging-mat-than-cua-ban-tren-he-thong-thuc/)
 
-## [Metrics]
-
-- Open Telementry
-- Prometheus
-- Gafana
-- ELK stack
-
-## [Distibuted Tracing]
-
-- Seq
-- Jeager
-- Kubernetes Log
-
 ## [Api Clients and Communications]
 
 - Rest Api
@@ -205,7 +192,7 @@ title: Overview Basic
 ## [Testing]
 
 - Unit test
-    + Unit Test là gì? [https://blog.ntechdevelopers.com/unit-test-la-gi]
+    + Unit Test là gì? [https://blog.ntechdevelopers.com/unit-test-la-gi](https://blog.ntechdevelopers.com/unit-test-la-gi)
     + Unit test, chuyện chẳng của riêng devs nào! [https://blog.ntechdevelopers.com/unit-test-chuyen-chang-cua-rieng-devs-nao](https://blog.ntechdevelopers.com/unit-test-chuyen-chang-cua-rieng-devs-nao)
     + Test Doubles [https://blog.ntechdevelopers.com/test-doubles/](https://blog.ntechdevelopers.com/test-doubles/)
 - Integration test
@@ -247,6 +234,19 @@ title: Overview Basic
 - HangFire
 - Cronjob
     + Tự động hoá với Cron Jobs [https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/](https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/)
+
+## [Metrics]
+
+- Open Telementry
+- Prometheus
+- Gafana
+- ELK stack
+
+## [Distibuted Tracing]
+
+- Seq
+- Jeager
+- Kubernetes Log
 
 ## [CI/CD]
 
