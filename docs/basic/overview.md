@@ -20,48 +20,75 @@ title: Overview Basic
 - URL/URI
     + Đừng nhầm lẫn URL và URI nhé! [https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe](https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe)
 - Http/Https
+- Tools
+    + Visual Studio – Build vs Rebuild vs Clean [https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/](https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/)
 
 ## [C#]
 
 - Learn basic C# 10+
+    + .NET Framework vs .NET Core [https://blog.ntechdevelopers.com/net-framework-vs-net-core/](https://blog.ntechdevelopers.com/net-framework-vs-net-core/)
     + Các lỗi sai cơ bản trong C# [https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp](https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp)
+    + Hiểu về các loại class trong C# [https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/](https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/)
+    + Fields và Properties trong C# và thay đổi trong C# 14 [https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/](https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/)
+    + Từ khoá params trong C# 13 khi làm việc với Collection [https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/](https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/)
+    
 - Learn .Net Framework
-    + Tip sử dụng LINQ trong C# [https://blog.ntechdevelopers.com/tip-su-dung-linq/](https://blog.ntechdevelopers.com/tip-su-dung-linq/)
     + Sự khác biệt giữa Find(), First() và FirstOrDefault() trong C# [https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/](https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/)
+    + DTOs trong .NET APIs: Một Cách Tiếp Cận Thông Minh Để Bảo Vệ Dữ Liệu [https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/](https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/)
+    + Func vs Predicate vs Expression trong C# .Net [https://blog.ntechdevelopers.com/func-vs-predicate-vs-expression-trong-c-net/](https://blog.ntechdevelopers.com/func-vs-predicate-vs-expression-trong-c-net/)
+    + Expression Trees trong C# [https://blog.ntechdevelopers.com/expression-trees-trong-c/](https://blog.ntechdevelopers.com/expression-trees-trong-c/)
+    + Delegate truyền thống và Generic Delegate trong C# [https://blog.ntechdevelopers.com/delegate-truyen-thong-va-generic-delegate-trong-c/](https://blog.ntechdevelopers.com/delegate-truyen-thong-va-generic-delegate-trong-c/)
+    + Delegates trong C# – Công cụ mạnh mẽ cho lập trình viên [https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/](https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/)
+    + Quản Lý Bộ Nhớ Trong .NET: Garbage Collector, Finalizer và IDisposable [https://blog.ntechdevelopers.com/quan-ly-bo-nho-trong-net-garbage-collector-finalizer-va-idisposable/](https://blog.ntechdevelopers.com/quan-ly-bo-nho-trong-net-garbage-collector-finalizer-va-idisposable/)
+    + Sử dụng phương thức mở rộng (Extension Methods) trong C# [https://blog.ntechdevelopers.com/su-dung-phuong-thuc-mo-rong-extension-methods-trong-c/](https://blog.ntechdevelopers.com/su-dung-phuong-thuc-mo-rong-extension-methods-trong-c/)
+    + So sánh string và StringBuilder trong C# [https://blog.ntechdevelopers.com/so-sanh-string-va-stringbuilder-trong-c/](https://blog.ntechdevelopers.com/so-sanh-string-va-stringbuilder-trong-c/)
+    + So Sánh ConcurrentDictionary và ConcurrentQueue trong C# [https://blog.ntechdevelopers.com/so-sanh-concurrentdictionary-va-concurrentqueue-trong-c/](https://blog.ntechdevelopers.com/so-sanh-concurrentdictionary-va-concurrentqueue-trong-c/)
+    + So sánh IEnumerable và IQueryable trong C# [https://blog.ntechdevelopers.com/so-sanh-ienumerable-va-iqueryable-trong-c/](https://blog.ntechdevelopers.com/so-sanh-ienumerable-va-iqueryable-trong-c/)
+    + Vài điều về IEnumerable, ICollection, IList, IQueryable trong C# [https://blog.ntechdevelopers.com/vai-dieu-ve-ienumerable-icollection-ilist-iqueryable-trong-c/](https://blog.ntechdevelopers.com/vai-dieu-ve-ienumerable-icollection-ilist-iqueryable-trong-c/)
     + Hiểu Sự Khác Biệt Giữa IEnumerable, ICollection, IList và List [https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/](https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/)
     + Phương Thức Enumerable.OrderByDescending trong .NET [https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net](https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net)
-    + DTOs trong .NET APIs: Một Cách Tiếp Cận Thông Minh Để Bảo Vệ Dữ Liệu [https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/](https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/)
+     + Tip sử dụng LINQ trong C# [https://blog.ntechdevelopers.com/tip-su-dung-linq/](https://blog.ntechdevelopers.com/tip-su-dung-linq/)
+
 - Learn .Net 5+
     + Tối ưu hóa hiệu suất trong .NET: Một số mẹo cần biết [https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/](https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/)
-    
+    + Quản lý Nuget Package Tập Trung (Central Package Management) trong .NET [https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/](https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/)
+    + C# Constraints giúp bạn kiểm soát dữ liệu như thế nào? [https://blog.ntechdevelopers.com/c-constraints-giup-ban-kiem-soat-du-lieu-nhu-the-nao/](https://blog.ntechdevelopers.com/c-constraints-giup-ban-kiem-soat-du-lieu-nhu-the-nao/)
+    + Options Pattern [https://blog.ntechdevelopers.com/options-pattern/](https://blog.ntechdevelopers.com/options-pattern/)
+    + Định nghĩa DTOs với Record [https://blog.ntechdevelopers.com/dinh-nghia-dtos-voi-record/](https://blog.ntechdevelopers.com/dinh-nghia-dtos-voi-record/)
 
 # [Design Patterns]
 
 - 23 Patterns
     + GoF Design Patterns – Nó là gì mà tại sao các senior bắt buộc phải biết! [https://blog.ntechdevelopers.com/gof-design-patterns-no-la-gi-ma-tai-sao-cac-senior-bat-buoc-phai-biet/](https://blog.ntechdevelopers.com/gof-design-patterns-no-la-gi-ma-tai-sao-cac-senior-bat-buoc-phai-biet/)
 - CQRS
-    + Giới thiệu về CQRS [https://blog.ntechdevelopers.com/gioi-thieu-ve-cqrs]
+    + Giới thiệu về CQRS [https://blog.ntechdevelopers.com/gioi-thieu-ve-cqrs](https://blog.ntechdevelopers.com/gioi-thieu-ve-cqrs)
     + Step by step implements CQRS in microservice [https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice](https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice)
 
-## [SOLID]
-
-- Single Responsibility Principle
-- Open Closed Principle
-- Liskov Substitution Principle
-- Interface Segregation Principle
-- Dependency Inversion Principle
-- DRY, KISS, YAGNI
+## [Design Principles]
+- Overview SOLID
+    + Hiểu về nguyên lý SOLID trong lập trình .NET [https://blog.ntechdevelopers.com/hieu-ve-nguyen-ly-solid-trong-lap-trinh-net/](https://blog.ntechdevelopers.com/hieu-ve-nguyen-ly-solid-trong-lap-trinh-net/)
+- DRY
+- KISS
+- YAGNI
 
 ## [Asp Net Core Basic]
 
 - Web Api
-    + Header Propagation trong AspNet Core [https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core](https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core)
+    + So Sánh REST và gRPC: Hai Kiến Trúc API Khác Nhau [https://blog.ntechdevelopers.com/so-sanh-rest-va-grpc-hai-kien-truc-api-khac-nhau/](https://blog.ntechdevelopers.com/so-sanh-rest-va-grpc-hai-kien-truc-api-khac-nhau/)
+    + REST API vs GraphQL: Lựa chọn kiến trúc API phù hợp cho dự án của bạn [https://blog.ntechdevelopers.com/rest-api-vs-graphql-lua-chon-kien-truc-api-phu-hop-cho-du-an-cua-ban/](https://blog.ntechdevelopers.com/rest-api-vs-graphql-lua-chon-kien-truc-api-phu-hop-cho-du-an-cua-ban/)
 - Rest
+    + Header Propagation trong AspNet Core [https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core](https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core)
+    + Câu chuyện về HttpClient và Giải pháp tối ưu IHttpClientFactory [https://blog.ntechdevelopers.com/cau-chuyen-ve-httpclient-va-giai-phap-toi-uu-ihttpclientfactory/](https://blog.ntechdevelopers.com/cau-chuyen-ve-httpclient-va-giai-phap-toi-uu-ihttpclientfactory/)
+    + So Sánh IActionResult vs ActionResult [https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/](https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/)
+    
 - Routing
 - Middlewares
     + Middlewares – Sự tùy biến trong ứng dụng phần mềm [https://blog.ntechdevelopers.com/middlewares-su-tuy-bien-trong-ung-dung-phan-mem](https://blog.ntechdevelopers.com/middlewares-su-tuy-bien-trong-ung-dung-phan-mem)
 - Filter and Attributes
 - Application Setting and Configurations
+    + Vấn đề của việc sử dụng DateTime.UtcNow và Giải pháp xử lý với TimeProvider [https://blog.ntechdevelopers.com/van-de-cua-viec-su-dung-datetime-utcnow-va-giai-phap-xu-ly-voi-timeprovider/](https://blog.ntechdevelopers.com/van-de-cua-viec-su-dung-datetime-utcnow-va-giai-phap-xu-ly-voi-timeprovider/)
+    + Smart Enums một giải pháp tuyệt vời khi làm việc với state flow [https://blog.ntechdevelopers.com/smart-enums-mot-giai-phap-tuyet-voi-khi-lam-viec-voi-state-flow/](https://blog.ntechdevelopers.com/smart-enums-mot-giai-phap-tuyet-voi-khi-lam-viec-voi-state-flow/)
+    + Sử dụng cancellation token trong ASP.NET Core [https://blog.ntechdevelopers.com/su-dung-cancellation-token-trong-asp-net-core/](https://blog.ntechdevelopers.com/su-dung-cancellation-token-trong-asp-net-core/)
 - Authentication and Authorization
     + Authentication vs Authorization – Trái tim của một ứng dụng [https://blog.ntechdevelopers.com/authentication-vs-authorization-trai-tim-cua-mot-ung-dung](https://blog.ntechdevelopers.com/authentication-vs-authorization-trai-tim-cua-mot-ung-dung)
     + Authentication – Các phương thức xác thực phổ biến hiện nay [https://blog.ntechdevelopers.com/authentication-cac-phuong-thuc-xac-thuc-pho-bien-hien-nay](https://blog.ntechdevelopers.com/authentication-cac-phuong-thuc-xac-thuc-pho-bien-hien-nay)
@@ -79,21 +106,29 @@ title: Overview Basic
 
 ## [RDBMS ORM]
 
+- Overview
+    + Entity Framework Core vs Dapper [https://blog.ntechdevelopers.com/entity-framework-core-vs-dapper/](https://blog.ntechdevelopers.com/entity-framework-core-vs-dapper/)
+    + Làm thế nào để quản lý EF Core DbContext Lifetime [https://blog.ntechdevelopers.com/lam-the-nao-de-quan-ly-ef-core-dbcontext-lifetime/](https://blog.ntechdevelopers.com/lam-the-nao-de-quan-ly-ef-core-dbcontext-lifetime/)
+    + Repository Pattern và Unit of Work trong .NET Core [https://blog.ntechdevelopers.com/repository-pattern-va-unit-of-work-trong-net-core/](https://blog.ntechdevelopers.com/repository-pattern-va-unit-of-work-trong-net-core/)
+    + Quản lý Transaction trong Cơ sở Dữ liệu [https://blog.ntechdevelopers.com/quan-ly-transaction-trong-co-so-du-lieu/](https://blog.ntechdevelopers.com/quan-ly-transaction-trong-co-so-du-lieu/)
+    + Tăng Hiệu Suất Database trong ASP.NET Core [https://blog.ntechdevelopers.com/tang-hieu-suat-database-trong-asp-net-core/](https://blog.ntechdevelopers.com/tang-hieu-suat-database-trong-asp-net-core/)
 - Entity Framwork Core
     + 3 tính năng mạnh mẽ trong EF Core [https://blog.ntechdevelopers.com/3-tinh-nang-manh-me-trong-ef-core/](https://blog.ntechdevelopers.com/3-tinh-nang-manh-me-trong-ef-core/)
     + Entity Framework Cache Busting [https://blog.ntechdevelopers.com/entity-framework-cache-busting](https://blog.ntechdevelopers.com/entity-framework-cache-busting)
     + Tối ưu hóa code tầng ORM với Entity Framework và giải quyết vấn đề Cache Busting [https://blog.ntechdevelopers.com/toi-uu-hoa-code-tang-orm-voi-entity-framework-va-giai-quyet-van-de-cache-busting/](https://blog.ntechdevelopers.com/toi-uu-hoa-code-tang-orm-voi-entity-framework-va-giai-quyet-van-de-cache-busting/)
+    + Những Lỗi Thường Gặp Khi Làm Việc Với Migration Trong Entity Framework Core [https://blog.ntechdevelopers.com/nhung-loi-thuong-gap-khi-lam-viec-voi-migration-trong-entity-framework-core/](https://blog.ntechdevelopers.com/nhung-loi-thuong-gap-khi-lam-viec-voi-migration-trong-entity-framework-core/)
 - Dapper
 - Nhibernate
 
 ## [Dependency Injection]
 
 - DI
-    + Dependency Injection (DI) Life Cycles in .NET [https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/](https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/)
+    + Dependency Injection trong C# [https://blog.ntechdevelopers.com/dependency-injection-trong-c/](https://blog.ntechdevelopers.com/dependency-injection-trong-c/)
     + Fluent Interface và Nguyên lý LoD huyền thoại [https://blog.ntechdevelopers.com/fluent-interface-va-nguyen-ly-lod-huyen-thoai](https://blog.ntechdevelopers.com/fluent-interface-va-nguyen-ly-lod-huyen-thoai)
+    + Fluent Validation trong .Net [https://blog.ntechdevelopers.com/fluent-validation-trong-net/](https://blog.ntechdevelopers.com/fluent-validation-trong-net/)
 - Scutor
 - Lifecycles
-
+     + Dependency Injection (DI) Life Cycles in .NET [https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/](https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/)
 ## [Caching]
 
 - In-Memory cache
@@ -154,8 +189,15 @@ title: Overview Basic
 
 ## [Concurrency]
 
+- Overview
+    + Sự khác biệt giữa Synchronous và Asynchronous Communication [https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/](https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/)
 - Multi-Threading
     + Concurrency – Chen chúc nhau, ai sẽ là người được ưu tiên [https://blog.ntechdevelopers.com/concurrency-chen-chuc-nhau-ai-se-la-nguoi-duoc-uu-tien](https://blog.ntechdevelopers.com/concurrency-chen-chuc-nhau-ai-se-la-nguoi-duoc-uu-tien)
+    + Concurrency vs Parallelism [https://blog.ntechdevelopers.com/concurrency-vs-parallelism/](https://blog.ntechdevelopers.com/concurrency-vs-parallelism/)
+- Async/Await
+    + Sử dụng async/await trong C# [https://blog.ntechdevelopers.com/su-dung-async-await-trong-c/](https://blog.ntechdevelopers.com/su-dung-async-await-trong-c/)
+    + Các lỗi nên tránh khi làm việc với async/await trong C# [https://blog.ntechdevelopers.com/cac-loi-nen-tranh-khi-lam-viec-voi-async-await-trong-c/](https://blog.ntechdevelopers.com/cac-loi-nen-tranh-khi-lam-viec-voi-async-await-trong-c/)
+    + Lập trình bất đồng bộ với async/await trong C# [https://blog.ntechdevelopers.com/lap-trinh-bat-dong-bo-voi-async-await-trong-c/](https://blog.ntechdevelopers.com/lap-trinh-bat-dong-bo-voi-async-await-trong-c/)
 - Lock
     + Lock – Chìa khóa giải quyết vấn đề Concurrency [https://blog.ntechdevelopers.com/lock-chia-khoa-giai-quyet-van-de-concurrency](https://blog.ntechdevelopers.com/lock-chia-khoa-giai-quyet-van-de-concurrency)
 - Distributed Lock Manager
@@ -191,6 +233,7 @@ title: Overview Basic
 ## [Object Mapping]
 
 - Auto mapper
+    + Tại sao mình không còn sử dụng AutoMapper trong các dự án nữa [https://blog.ntechdevelopers.com/tai-sao-minh-khong-con-su-dung-automapper-trong-cac-du-an-nua/](https://blog.ntechdevelopers.com/tai-sao-minh-khong-con-su-dung-automapper-trong-cac-du-an-nua/)
 - Mapster
 
 ## [Api SDK Libraries]
@@ -204,6 +247,7 @@ title: Overview Basic
 - Background service
 - HangFire
 - Cronjob
+    + Tự động hoá với Cron Jobs [https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/](https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/)
 
 ## [CI/CD]
 
