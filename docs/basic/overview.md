@@ -20,18 +20,17 @@ title: Overview Basic
 - URL/URI
     + Đừng nhầm lẫn URL và URI nhé! [https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe](https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe)
 - Http/Https
-- Tools
+- IDE
     + Visual Studio – Build vs Rebuild vs Clean [https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/](https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/)
 
-## [C#]
+## [C# ]
 
 - Learn basic C# 10+
     + .NET Framework vs .NET Core [https://blog.ntechdevelopers.com/net-framework-vs-net-core/](https://blog.ntechdevelopers.com/net-framework-vs-net-core/)
     + Các lỗi sai cơ bản trong C# [https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp](https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp)
     + Hiểu về các loại class trong C# [https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/](https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/)
     + Fields và Properties trong C# và thay đổi trong C# 14 [https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/](https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/)
-    + Từ khoá params trong C# 13 khi làm việc với Collection [https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/](https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/)
-    
+    + Từ khoá params trong C# 13 khi làm việc với Collection [https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/](https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/) 
 - Learn .Net Framework
     + Sự khác biệt giữa Find(), First() và FirstOrDefault() trong C# [https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/](https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/)
     + DTOs trong .NET APIs: Một Cách Tiếp Cận Thông Minh Để Bảo Vệ Dữ Liệu [https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/](https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/)
@@ -48,7 +47,6 @@ title: Overview Basic
     + Hiểu Sự Khác Biệt Giữa IEnumerable, ICollection, IList và List [https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/](https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/)
     + Phương Thức Enumerable.OrderByDescending trong .NET [https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net](https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net)
      + Tip sử dụng LINQ trong C# [https://blog.ntechdevelopers.com/tip-su-dung-linq/](https://blog.ntechdevelopers.com/tip-su-dung-linq/)
-
 - Learn .Net 5+
     + Tối ưu hóa hiệu suất trong .NET: Một số mẹo cần biết [https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/](https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/)
     + Quản lý Nuget Package Tập Trung (Central Package Management) trong .NET [https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/](https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/)
@@ -65,6 +63,7 @@ title: Overview Basic
     + Step by step implements CQRS in microservice [https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice](https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice)
 
 ## [Design Principles]
+
 - Overview SOLID
     + Hiểu về nguyên lý SOLID trong lập trình .NET [https://blog.ntechdevelopers.com/hieu-ve-nguyen-ly-solid-trong-lap-trinh-net/](https://blog.ntechdevelopers.com/hieu-ve-nguyen-ly-solid-trong-lap-trinh-net/)
 - DRY
@@ -79,8 +78,7 @@ title: Overview Basic
 - Rest
     + Header Propagation trong AspNet Core [https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core](https://blog.ntechdevelopers.com/header-propagation-trong-aspnet-core)
     + Câu chuyện về HttpClient và Giải pháp tối ưu IHttpClientFactory [https://blog.ntechdevelopers.com/cau-chuyen-ve-httpclient-va-giai-phap-toi-uu-ihttpclientfactory/](https://blog.ntechdevelopers.com/cau-chuyen-ve-httpclient-va-giai-phap-toi-uu-ihttpclientfactory/)
-    + So Sánh IActionResult vs ActionResult [https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/](https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/)
-    
+    + So Sánh IActionResult vs ActionResult [https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/](https://blog.ntechdevelopers.com/so-sanh-iactionresult-vs-actionresult/)  
 - Routing
 - Middlewares
     + Middlewares – Sự tùy biến trong ứng dụng phần mềm [https://blog.ntechdevelopers.com/middlewares-su-tuy-bien-trong-ung-dung-phan-mem](https://blog.ntechdevelopers.com/middlewares-su-tuy-bien-trong-ung-dung-phan-mem)
@@ -128,7 +126,8 @@ title: Overview Basic
 - Scutor
 - Lifecycles
      + Dependency Injection (DI) Life Cycles in .NET [https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/](https://blog.ntechdevelopers.com/dependency-injection-di-life-cycles-in-net/)
-## [Caching]
+
+## [Caching ]
 
 - In-Memory cache
     + In-memory caching – Liệu bạn có nên lựa chọn nó và cách sử dụng nó như thế nào [https://blog.ntechdevelopers.com/in-memory-caching-lieu-ban-co-nen-lua-chon-no-va-cach-su-dung-no-nhu-the-nao](https://blog.ntechdevelopers.com/in-memory-caching-lieu-ban-co-nen-lua-chon-no-va-cach-su-dung-no-nhu-the-nao)
@@ -140,7 +139,7 @@ title: Overview Basic
     + Tổng quan về caching của một ứng dụng [https://blog.ntechdevelopers.com/tong-quan-ve-caching-cua-mot-ung-dung](https://blog.ntechdevelopers.com/tong-quan-ve-caching-cua-mot-ung-dung)
     + Chiến Lược Caching trong .NET và Redis [https://blog.ntechdevelopers.com/chien-luoc-caching-trong-net-va-redis/](https://blog.ntechdevelopers.com/chien-luoc-caching-trong-net-va-redis/)
 
-## [Databases]
+## [Databases ]
 
 - PostgreSql
     + PostgreSQL liệu có như tuyên bố “Cơ sở dữ liệu mã nguồn mở tiên tiến nhất thế giới” [https://blog.ntechdevelopers.com/postgresql-lieu-co-nhu-tuyen-bo-co-so-du-lieu-ma-nguon-mo-tien-tien-nhat-the-gioi](https://blog.ntechdevelopers.com/postgresql-lieu-co-nhu-tuyen-bo-co-so-du-lieu-ma-nguon-mo-tien-tien-nhat-the-gioi)
@@ -153,7 +152,7 @@ title: Overview Basic
 - Redis
     + Redis Database: Công cụ nguồn mở được yêu thích trên toàn thế giới [https://blog.ntechdevelopers.com/redis-database-cong-cu-nguon-mo-duoc-yeu-thich-tren-toan-the-gioi/](https://blog.ntechdevelopers.com/redis-database-cong-cu-nguon-mo-duoc-yeu-thich-tren-toan-the-gioi/)
 
-## [Logging]
+## [Logging ]
 
 - Serilog
 - Datalog
@@ -173,7 +172,7 @@ title: Overview Basic
 - Others
     + REST API vs GraphQL: Lựa chọn kiến trúc API phù hợp cho dự án của bạn [https://blog.ntechdevelopers.com/rest-api-vs-graphql-lua-chon-kien-truc-api-phu-hop-cho-du-an-cua-ban/](https://blog.ntechdevelopers.com/rest-api-vs-graphql-lua-chon-kien-truc-api-phu-hop-cho-du-an-cua-ban/)
 
-## [Concurrency]
+## [Concurrency ]
 
 - Overview
     + Sự khác biệt giữa Synchronous và Asynchronous Communication [https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/](https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/)
@@ -189,7 +188,7 @@ title: Overview Basic
 - Distributed Lock Manager
     + Distributed Lock Manager – Vấn đề liệu có được giải quyết [https://blog.ntechdevelopers.com/distributed-lock-manager-van-de-lieu-co-duoc-giai-quyet](https://blog.ntechdevelopers.com/distributed-lock-manager-van-de-lieu-co-duoc-giai-quyet)
 
-## [Testing]
+## [Testing ]
 
 - Unit test
     + Unit Test là gì? [https://blog.ntechdevelopers.com/unit-test-la-gi](https://blog.ntechdevelopers.com/unit-test-la-gi)
@@ -235,7 +234,7 @@ title: Overview Basic
 - Cronjob
     + Tự động hoá với Cron Jobs [https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/](https://blog.ntechdevelopers.com/tu-dong-hoa-voi-cron-jobs/)
 
-## [Metrics]
+## [Metrics ]
 
 - Open Telementry
 - Prometheus
@@ -248,7 +247,7 @@ title: Overview Basic
 - Jeager
 - Kubernetes Log
 
-## [CI/CD]
+## [CI/CD ]
 
 - Deploy
 - Jenkins
@@ -260,7 +259,7 @@ title: Overview Basic
 - Nuke
 - Fake
 
-## [Microservices]
+## [Microservices ]
 
 - Overview
     + Tổng hợp các bài viết về Microservice [https://blog.ntechdevelopers.com/tong-hop-cac-bai-viet-ve-microservice/](https://blog.ntechdevelopers.com/tong-hop-cac-bai-viet-ve-microservice/)
@@ -273,14 +272,20 @@ title: Overview Basic
 - Api gateway
 - Reverse Proxy
 
-## [Architectures]
+## [Architectures ]
 
 - Clean Architecture
     + Clean Architecture – Điều đơn giản với ý tưởng củ hành [https://blog.ntechdevelopers.com/clean-architechture-don-gian-voi-y-tuong-cu-hanh/](https://blog.ntechdevelopers.com/clean-architechture-don-gian-voi-y-tuong-cu-hanh/)
+- Monolithic Architecture
+    + Monolithic Architecture – Kiến trúc một khối truyền thống [https://blog.ntechdevelopers.com/monolithic-architecture-kien-truc-mot-khoi-truyen-thong/](https://blog.ntechdevelopers.com/monolithic-architecture-kien-truc-mot-khoi-truyen-thong/)
 - Client Server Architecture
     + Client Server Architecture – Kiến trúc client-server [https://blog.ntechdevelopers.com/client-server-architecture-kien-truc-client-server](https://blog.ntechdevelopers.com/client-server-architecture-kien-truc-client-server)
 - Serverless Architecture
     + Serverless Architecture – Kiến trúc không có máy chủ [https://blog.ntechdevelopers.com/serverless-architecture-kien-truc-khong-co-may-chu/](https://blog.ntechdevelopers.com/serverless-architecture-kien-truc-khong-co-may-chu/)
+- Service Oriented Architecture
+    + Service-oriented Architecture (SOA) – Kiến trúc hướng dịch vụ [https://blog.ntechdevelopers.com/service-oriented-architecture-soa-kien-truc-huong-dich-vu/](https://blog.ntechdevelopers.com/service-oriented-architecture-soa-kien-truc-huong-dich-vu/)
+- Microservices Architecture
+    + Microservices Architecture – Kiến trúc Microservices [https://blog.ntechdevelopers.com/microservices-architecture-kien-truc-microservices/](https://blog.ntechdevelopers.com/microservices-architecture-kien-truc-microservices/)
 
 ## [Optimize Performance]
 
@@ -289,7 +294,7 @@ title: Overview Basic
 - Refactoring
     + Refactoring trong C# [https://blog.ntechdevelopers.com/refactoring-trong-c/](https://blog.ntechdevelopers.com/refactoring-trong-c/)
 
-## [Others]
+## [Others ]
 
 - Payment
     + Tích hợp cổng thanh toán Vn-Pay với ứng dụng của bạn [https://blog.ntechdevelopers.com/tich-hop-cong-thanh-toan-vn-pay-voi-ung-dung-cua-ban/](https://blog.ntechdevelopers.com/tich-hop-cong-thanh-toan-vn-pay-voi-ung-dung-cua-ban/)
