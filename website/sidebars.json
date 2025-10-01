@@ -11,6 +11,13 @@
       },
       {
         "type": "category",
+        "label": "C Sharp Basics",
+        "items": [
+          "basic/general/CSharpBasics"
+        ]
+      },
+      {
+        "type": "category",
         "label": "Tips and Tricks",
         "items": [
           "basic/general/tips"
