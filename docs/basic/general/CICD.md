@@ -17,6 +17,8 @@ title: CI/CD
 - Azure pipelines
 - TeamCity
 - Github Actions
+- Ngnix
+    + Giao Diện Quản Trị Nginx Trực Quan với Nginx UI Kết Hợp Docker [https://blog.ntechdevelopers.com/giao-dien-quan-tri-nginx-truc-quan-voi-nginx-ui-ket-hop-docker/](https://blog.ntechdevelopers.com/giao-dien-quan-tri-nginx-truc-quan-voi-nginx-ui-ket-hop-docker/)
 - Circle CI
 - Cake
 - Nuke

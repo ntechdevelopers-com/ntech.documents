@@ -62,6 +62,7 @@
         "type": "category",
         "label": "Other",
         "items": [
+          "basic/other/maui",
           "basic/other/other"
         ]
       }

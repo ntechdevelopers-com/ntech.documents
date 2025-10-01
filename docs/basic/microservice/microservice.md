@@ -28,3 +28,5 @@ title: Microservice
 - Authentication vs Authorization – Trái tim của một ứng dụng [https://blog.ntechdevelopers.com/authentication-vs-authorization-trai-tim-cua-mot-ung-dung/](https://blog.ntechdevelopers.com/authentication-vs-authorization-trai-tim-cua-mot-ung-dung/)
 - Authentication – Các phương thức xác thực phổ biến hiện nay [https://blog.ntechdevelopers.com/authentication-cac-phuong-thuc-xac-thuc-pho-bien-hien-nay/](https://blog.ntechdevelopers.com/authentication-cac-phuong-thuc-xac-thuc-pho-bien-hien-nay/)
 - Tổng quan về caching của một ứng dụng [https://blog.ntechdevelopers.com/tong-quan-ve-caching-cua-mot-ung-dung/](https://blog.ntechdevelopers.com/tong-quan-ve-caching-cua-mot-ung-dung/)
+- 12 cách trong hành trình cải thiện monolith trước khi chuyển sang microservices [https://blog.ntechdevelopers.com/12-cach-hanh-trinh-cai-thien-monolith-truoc-khi-chuyen-sang-microservices/](https://blog.ntechdevelopers.com/12-cach-hanh-trinh-cai-thien-monolith-truoc-khi-chuyen-sang-microservices/)
+

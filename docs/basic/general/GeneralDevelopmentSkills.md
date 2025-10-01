@@ -20,5 +20,7 @@ title: General Development Skills
 - URL/URI
     + Đừng nhầm lẫn URL và URI nhé! [https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe](https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe)
 - Http/Https
+- Upload storage
+    + Hướng Dẫn Xây Dựng File Upload Service với ASP.NET Core [https://blog.ntechdevelopers.com/huong-dan-xay-dung-file-upload-service-voi-asp-net-core/](https://blog.ntechdevelopers.com/huong-dan-xay-dung-file-upload-service-voi-asp-net-core/)
 - IDE
     + Visual Studio – Build vs Rebuild vs Clean [https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/](https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/)
