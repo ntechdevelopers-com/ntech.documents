@@ -4,6 +4,13 @@
       "basic/overview",
       {
         "type": "category",
+        "label": "General Development Skills",
+        "items": [
+          "basic/general/GeneralDevelopmentSkills"
+        ]
+      },
+      {
+        "type": "category",
         "label": "Tips and Tricks",
         "items": [
           "basic/general/tips"
