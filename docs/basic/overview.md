@@ -6,61 +6,23 @@ title: Overview Basic
 ## [General Development Skills]
 
 - Algorithms
-    + Thuật toán – liệu có ma thuật, phức tạp và bí ẩn như mọi người vẫn nghĩ? [https://blog.ntechdevelopers.com/thuat-toan-lieu-co-ma-thuat-phuc-tap-va-bi-an-nhu-moi-nguoi-van-nghi](https://blog.ntechdevelopers.com/thuat-toan-lieu-co-ma-thuat-phuc-tap-va-bi-an-nhu-moi-nguoi-van-nghi)
-    + Mô phỏng thuật toán, tưởng dễ mà khó! [https://blog.ntechdevelopers.com/mo-phong-thuat-toan-tuong-de-ma-kho](https://blog.ntechdevelopers.com/mo-phong-thuat-toan-tuong-de-ma-kho)
-    + Hiểu về thuật toán QuickSort [https://blog.ntechdevelopers.com/hieu-ve-thuat-toan-quicksort](https://blog.ntechdevelopers.com/hieu-ve-thuat-toan-quicksort)
-    + Binary Search Implementation Using C# [https://blog.ntechdevelopers.com/binary-search-implementation-using-c](https://blog.ntechdevelopers.com/binary-search-implementation-using-c)
 - Data Structures
 - OOP
-    + Tính chất của OOP là gì? [https://blog.ntechdevelopers.com/tinh-chat-cua-oop-la-gi/](https://blog.ntechdevelopers.com/tinh-chat-cua-oop-la-gi/)
 - Git
-    + Tìm hiểu về Git [https://blog.ntechdevelopers.com/tim-hieu-ve-git](https://blog.ntechdevelopers.com/tim-hieu-ve-git)
-    + Git Useful Commands [https://blog.ntechdevelopers.com/git-useful-commands](https://blog.ntechdevelopers.com/git-useful-commands)
-    + 13 công cụ git hỗ trợ giao diện phổ biến [https://blog.ntechdevelopers.com/13-cong-cu-git-ho-tro-giao-dien-pho-bien](https://blog.ntechdevelopers.com/13-cong-cu-git-ho-tro-giao-dien-pho-bien)
 - URL/URI
-    + Đừng nhầm lẫn URL và URI nhé! [https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe](https://blog.ntechdevelopers.com/dung-nham-lan-url-va-uri-nhe)
 - Http/Https
 - IDE
-    + Visual Studio – Build vs Rebuild vs Clean [https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/](https://blog.ntechdevelopers.com/visual-studio-build-vs-rebuild-vs-clean/)
 
 ## [C# ]
 
 - Learn basic C# 10+
-    + .NET Framework vs .NET Core [https://blog.ntechdevelopers.com/net-framework-vs-net-core/](https://blog.ntechdevelopers.com/net-framework-vs-net-core/)
-    + Các lỗi sai cơ bản trong C# [https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp](https://blog.ntechdevelopers.com/nhung-sai-lam-co-ban-trong-c-sharp)
-    + Hiểu về các loại class trong C# [https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/](https://blog.ntechdevelopers.com/hieu-ve-cac-loai-class-trong-c/)
-    + Fields và Properties trong C# và thay đổi trong C# 14 [https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/](https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/)
-    + Từ khoá params trong C# 13 khi làm việc với Collection [https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/](https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/) 
 - Learn .Net Framework
-    + Sự khác biệt giữa Find(), First() và FirstOrDefault() trong C# [https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/](https://blog.ntechdevelopers.com/su-khac-biet-giua-find-first-va-firstordefault-trong-c/)
-    + DTOs trong .NET APIs: Một Cách Tiếp Cận Thông Minh Để Bảo Vệ Dữ Liệu [https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/](https://blog.ntechdevelopers.com/dtos-trong-net-apis-mot-cach-tiep-can-thong-minh-de-bao-ve-du-lieu/)
-    + Func vs Predicate vs Expression trong C# .Net [https://blog.ntechdevelopers.com/func-vs-predicate-vs-expression-trong-c-net/](https://blog.ntechdevelopers.com/func-vs-predicate-vs-expression-trong-c-net/)
-    + Expression Trees trong C# [https://blog.ntechdevelopers.com/expression-trees-trong-c/](https://blog.ntechdevelopers.com/expression-trees-trong-c/)
-    + Delegate truyền thống và Generic Delegate trong C# [https://blog.ntechdevelopers.com/delegate-truyen-thong-va-generic-delegate-trong-c/](https://blog.ntechdevelopers.com/delegate-truyen-thong-va-generic-delegate-trong-c/)
-    + Delegates trong C# – Công cụ mạnh mẽ cho lập trình viên [https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/](https://blog.ntechdevelopers.com/delegates-trong-c-cong-cu-manh-me-cho-lap-trinh-vien/)
-    + Quản Lý Bộ Nhớ Trong .NET: Garbage Collector, Finalizer và IDisposable [https://blog.ntechdevelopers.com/quan-ly-bo-nho-trong-net-garbage-collector-finalizer-va-idisposable/](https://blog.ntechdevelopers.com/quan-ly-bo-nho-trong-net-garbage-collector-finalizer-va-idisposable/)
-    + Sử dụng phương thức mở rộng (Extension Methods) trong C# [https://blog.ntechdevelopers.com/su-dung-phuong-thuc-mo-rong-extension-methods-trong-c/](https://blog.ntechdevelopers.com/su-dung-phuong-thuc-mo-rong-extension-methods-trong-c/)
-    + So sánh string và StringBuilder trong C# [https://blog.ntechdevelopers.com/so-sanh-string-va-stringbuilder-trong-c/](https://blog.ntechdevelopers.com/so-sanh-string-va-stringbuilder-trong-c/)
-    + So Sánh ConcurrentDictionary và ConcurrentQueue trong C# [https://blog.ntechdevelopers.com/so-sanh-concurrentdictionary-va-concurrentqueue-trong-c/](https://blog.ntechdevelopers.com/so-sanh-concurrentdictionary-va-concurrentqueue-trong-c/)
-    + So sánh IEnumerable và IQueryable trong C# [https://blog.ntechdevelopers.com/so-sanh-ienumerable-va-iqueryable-trong-c/](https://blog.ntechdevelopers.com/so-sanh-ienumerable-va-iqueryable-trong-c/)
-    + Vài điều về IEnumerable, ICollection, IList, IQueryable trong C# [https://blog.ntechdevelopers.com/vai-dieu-ve-ienumerable-icollection-ilist-iqueryable-trong-c/](https://blog.ntechdevelopers.com/vai-dieu-ve-ienumerable-icollection-ilist-iqueryable-trong-c/)
-    + Hiểu Sự Khác Biệt Giữa IEnumerable, ICollection, IList và List [https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/](https://blog.ntechdevelopers.com/hieu-su-khac-biet-giua-ienumerable-icollection-ilist-va-list/)
-    + Phương Thức Enumerable.OrderByDescending trong .NET [https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net](https://blog.ntechdevelopers.com/phuong-thuc-enumerable-orderbydescending-trong-net)
-     + Tip sử dụng LINQ trong C# [https://blog.ntechdevelopers.com/tip-su-dung-linq/](https://blog.ntechdevelopers.com/tip-su-dung-linq/)
 - Learn .Net 5+
-    + Tối ưu hóa hiệu suất trong .NET: Một số mẹo cần biết [https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/](https://blog.ntechdevelopers.com/toi-uu-hoa-hieu-suat-trong-net-mot-so-meo-can-biet/)
-    + Quản lý Nuget Package Tập Trung (Central Package Management) trong .NET [https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/](https://blog.ntechdevelopers.com/quan-ly-nuget-package-tap-trung-central-package-management-trong-net/)
-    + C# Constraints giúp bạn kiểm soát dữ liệu như thế nào? [https://blog.ntechdevelopers.com/c-constraints-giup-ban-kiem-soat-du-lieu-nhu-the-nao/](https://blog.ntechdevelopers.com/c-constraints-giup-ban-kiem-soat-du-lieu-nhu-the-nao/)
-    + Options Pattern [https://blog.ntechdevelopers.com/options-pattern/](https://blog.ntechdevelopers.com/options-pattern/)
-    + Định nghĩa DTOs với Record [https://blog.ntechdevelopers.com/dinh-nghia-dtos-voi-record/](https://blog.ntechdevelopers.com/dinh-nghia-dtos-voi-record/)
 
 # [Design Patterns]
 
 - 23 Patterns
-    + GoF Design Patterns – Nó là gì mà tại sao các senior bắt buộc phải biết! [https://blog.ntechdevelopers.com/gof-design-patterns-no-la-gi-ma-tai-sao-cac-senior-bat-buoc-phai-biet/](https://blog.ntechdevelopers.com/gof-design-patterns-no-la-gi-ma-tai-sao-cac-senior-bat-buoc-phai-biet/)
 - CQRS
-    + Giới thiệu về CQRS [https://blog.ntechdevelopers.com/gioi-thieu-ve-cqrs](https://blog.ntechdevelopers.com/gioi-thieu-ve-cqrs)
-    + Step by step implements CQRS in microservice [https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice](https://blog.ntechdevelopers.com/step-by-step-implements-cqrs-in-microservice)
 
 ## [Design Principles]
 

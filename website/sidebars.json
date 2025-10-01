@@ -4,16 +4,11 @@
       "basic/overview",
       {
         "type": "category",
-        "label": "General Development Skills",
+        "label": "Basic",
         "items": [
-          "basic/general/GeneralDevelopmentSkills"
-        ]
-      },
-      {
-        "type": "category",
-        "label": "C Sharp Basics",
-        "items": [
-          "basic/general/CSharpBasic"
+            "basic/general/GeneralDevelopmentSkills",
+            "basic/general/CSharpBasic",
+            "basic/general/DesignPatterns",
         ]
       },
       {
