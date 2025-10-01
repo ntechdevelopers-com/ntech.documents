@@ -17,7 +17,7 @@
             "basic/general/Caching",
             "basic/general/Databases",
             "basic/general/Logging",
-            "basic/general/ApiClientsAndCommunications",
+            "basic/general/ApiClientsCommunications",
             "basic/general/Concurrency",
             "basic/general/Testing",
             "basic/general/RealTimeCommunication",
