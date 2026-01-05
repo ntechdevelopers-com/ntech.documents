@@ -1,84 +1,91 @@
 {
-  "docs": {
-    "Basic": [
-      "basic/overview",
-      {
-        "type": "category",
-        "label": "General",
-        "items": [
-            "basic/general/GeneralDevelopmentSkills",
-            "basic/general/CSharpBasic",
-            "basic/general/DesignPatterns",
-            "basic/general/DesignPrinciples",
-            "basic/general/AspNetCoreBasic",
-            "basic/general/SqlFundamentals",
-            "basic/general/RDBMSORM",
-            "basic/general/DependencyInjection",
-            "basic/general/Caching",
-            "basic/general/Databases",
-            "basic/general/Logging",
-            "basic/general/ApiClientsCommunications",
-            "basic/general/Concurrency",
-            "basic/general/Testing",
-            "basic/general/RealTimeCommunication",
-            "basic/general/ApiDocumentation",
-            "basic/general/ObjectMapping",
-            "basic/general/ApiSDKLibraries",
-            "basic/general/TaskScheduling",
-            "basic/general/Metrics",
-            "basic/general/DistibutedTracing",
-            "basic/general/CICD"
+    "docs": {
+        "Basic": [
+            "basic/overview",
+            {
+                "type": "category",
+                "label": "General",
+                "items": [
+                    "basic/general/GeneralDevelopmentSkills",
+                    "basic/general/CSharpBasic",
+                    "basic/general/DesignPatterns",
+                    "basic/general/DesignPrinciples",
+                    "basic/general/AspNetCoreBasic",
+                    "basic/general/SqlFundamentals",
+                    "basic/general/RDBMSORM",
+                    "basic/general/DependencyInjection",
+                    "basic/general/Caching",
+                    "basic/general/Databases",
+                    "basic/general/Logging",
+                    "basic/general/ApiClientsCommunications",
+                    "basic/general/Concurrency",
+                    "basic/general/Testing",
+                    "basic/general/RealTimeCommunication",
+                    "basic/general/ApiDocumentation",
+                    "basic/general/ObjectMapping",
+                    "basic/general/ApiSDKLibraries",
+                    "basic/general/TaskScheduling",
+                    "basic/general/Metrics",
+                    "basic/general/DistibutedTracing",
+                    "basic/general/CICD"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Tips and Tricks",
+                "items": [
+                    "basic/general/tips"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Architectures",
+                "items": [
+                    "basic/architecture/architecture"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Microservice",
+                "items": [
+                    "basic/microservice/microservice"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Performance",
+                "items": [
+                    "basic/performance/performance"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Other",
+                "items": [
+                    "basic/other/maui",
+                    "basic/other/other"
+                ]
+            }
+        ],
+        "Advanced": [
+            "advanced/overview"
+        ],
+        "Testing": [
+            "testing/overview",
+            {
+                "type": "category",
+                "label": "Performance Testing",
+                "items": [
+                    "testing/performance-test/performance-test"
+                ]
+            },
+            {
+                "type": "category",
+                "label": "Automation Testing",
+                "items": [
+                    "testing/automation-test/automation-test"
+                ]
+            }
         ]
-      },
-      {
-        "type": "category",
-        "label": "Tips and Tricks",
-        "items": [
-          "basic/general/tips"
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Architectures",
-        "items": [
-          "basic/architecture/architecture"
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Microservice",
-        "items": [
-          "basic/microservice/microservice"
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Performance",
-        "items": [
-          "basic/performance/performance"
-        ]
-      },
-      {
-        "type": "category",
-        "label": "Other",
-        "items": [
-          "basic/other/maui",
-          "basic/other/other"
-        ]
-      }
-    ],
-    "Advanced": [
-      "advanced/overview"
-    ],
-    "Testing": [
-        "testing/overview",
-        {
-          "type": "category",
-          "label": "Testing",
-          "items": [
-            "testing/performance-test/performance-test"
-          ]
-        }
-      ]
-  }
+    }
 }
