@@ -19,7 +19,6 @@
                     "basic/general/Logging",
                     "basic/general/ApiClientsCommunications",
                     "basic/general/Concurrency",
-                    "basic/general/Testing",
                     "basic/general/RealTimeCommunication",
                     "basic/general/ApiDocumentation",
                     "basic/general/ObjectMapping",
@@ -27,7 +26,8 @@
                     "basic/general/TaskScheduling",
                     "basic/general/Metrics",
                     "basic/general/DistibutedTracing",
-                    "basic/general/CICD"
+                    "basic/general/CICD",
+                    "basic/general/Testing"
                 ]
             },
             {
@@ -41,7 +41,8 @@
                 "type": "category",
                 "label": "Architectures",
                 "items": [
-                    "basic/architecture/architecture"
+                    "basic/architecture/architecture",
+                    "basic/architecture/design-system"
                 ]
             },
             {
@@ -62,6 +63,7 @@
                 "type": "category",
                 "label": "Other",
                 "items": [
+                    "basic/other/wpf",
                     "basic/other/maui",
                     "basic/other/other"
                 ]

@@ -34,3 +34,5 @@ title: C# Basic
     + Từ khoá params trong C# 13 khi làm việc với Collection [https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/](https://blog.ntechdevelopers.com/tu-khoa-params-trong-c-13-khi-lam-viec-voi-collection/) 
     + Fields và Properties trong C# và thay đổi trong C# 14 [https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/](https://blog.ntechdevelopers.com/fields-va-properties-trong-c-va-thay-doi-trong-c-14/)
     + POCO Class trong C# [https://blog.ntechdevelopers.com/poco-class-trong-c/](https://blog.ntechdevelopers.com/poco-class-trong-c/)
+- MAUI
+- WPF

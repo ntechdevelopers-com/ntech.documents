@@ -18,6 +18,8 @@ title: Overview Basic
 - Learn basic C# 10+
 - Learn .Net Framework
 - Learn .Net 5+
+- MAUI
+- WPF
 
 # [Design Patterns]
 
@@ -27,6 +29,7 @@ title: Overview Basic
 ## [Design Principles]
 
 - Overview SOLID
+- ACID
 - DRY
 - KISS
 - YAGNI
@@ -100,14 +103,7 @@ title: Overview Basic
 - Async/Await
 - Lock
 - Distributed Lock Manager
-
-## [Testing ]
-
-- Unit test
-- Integration test
-- Automation test
-- Performance test
-- Security test
+- Message Queue
 
 ## [Real Time Communication]
 
@@ -151,9 +147,15 @@ title: Overview Basic
 - Jeager
 - Kubernetes Log
 
+## [Optimize Performance]
+
+- Performance
+- Refactoring
+
 ## [CI/CD ]
 
 - Deploy
+- Docker
 - Jenkins
 - Azure pipelines
 - TeamCity
@@ -162,6 +164,14 @@ title: Overview Basic
 - Cake
 - Nuke
 - Fake
+
+## [Testing ]
+
+- Unit test
+- Integration test
+- Automation test
+- Performance test
+- Security test
 
 ## [Microservices ]
 
@@ -184,10 +194,10 @@ title: Overview Basic
 - Service Oriented Architecture
 - Microservices Architecture
 
-## [Optimize Performance]
-
-- Performance
-- Refactoring
+## [Design Systems ]
+- CQRS
+- Event Sourcing
+- Domain Driven Design
 
 ## [Others ]
 
@@ -203,6 +213,7 @@ title: Overview Basic
 - Terraform
 - Low-code
 - DevExpress
+
 
 
 

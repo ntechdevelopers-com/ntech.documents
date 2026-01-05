@@ -18,3 +18,5 @@ title: Concurrency
     + Lock – Chìa khóa giải quyết vấn đề Concurrency [https://blog.ntechdevelopers.com/lock-chia-khoa-giai-quyet-van-de-concurrency](https://blog.ntechdevelopers.com/lock-chia-khoa-giai-quyet-van-de-concurrency)
 - Distributed Lock Manager
     + Distributed Lock Manager – Vấn đề liệu có được giải quyết [https://blog.ntechdevelopers.com/distributed-lock-manager-van-de-lieu-co-duoc-giai-quyet](https://blog.ntechdevelopers.com/distributed-lock-manager-van-de-lieu-co-duoc-giai-quyet)
+- Message Queue
+    + Sử dụng In-Memory Message Bus thay thế cho Masstransit như nào [https://blog.ntechdevelopers.com/su-dung-in-memory-message-bus-thay-the-cho-masstransit-nhu-nao/](https://blog.ntechdevelopers.com/su-dung-in-memory-message-bus-thay-the-cho-masstransit-nhu-nao/)

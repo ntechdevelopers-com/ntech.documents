@@ -11,6 +11,7 @@ title: RDBMS ORM
     + Repository Pattern và Unit of Work trong .NET Core [https://blog.ntechdevelopers.com/repository-pattern-va-unit-of-work-trong-net-core/](https://blog.ntechdevelopers.com/repository-pattern-va-unit-of-work-trong-net-core/)
     + Quản lý Transaction trong Cơ sở Dữ liệu [https://blog.ntechdevelopers.com/quan-ly-transaction-trong-co-so-du-lieu/](https://blog.ntechdevelopers.com/quan-ly-transaction-trong-co-so-du-lieu/)
     + Tăng Hiệu Suất Database trong ASP.NET Core [https://blog.ntechdevelopers.com/tang-hieu-suat-database-trong-asp-net-core/](https://blog.ntechdevelopers.com/tang-hieu-suat-database-trong-asp-net-core/)
+    + Các Kiểu ID Phổ Biến Trong Database Dành Cho Lập Trình Viên [https://blog.ntechdevelopers.com/cac-kieu-id-pho-bien-trong-database-danh-cho-lap-trinh-vien/](https://blog.ntechdevelopers.com/cac-kieu-id-pho-bien-trong-database-danh-cho-lap-trinh-vien/)
 - Entity Framwork Core
     + 3 tính năng mạnh mẽ trong EF Core [https://blog.ntechdevelopers.com/3-tinh-nang-manh-me-trong-ef-core/](https://blog.ntechdevelopers.com/3-tinh-nang-manh-me-trong-ef-core/)
     + Entity Framework Cache Busting [https://blog.ntechdevelopers.com/entity-framework-cache-busting](https://blog.ntechdevelopers.com/entity-framework-cache-busting)
